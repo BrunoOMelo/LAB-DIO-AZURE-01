@@ -55,7 +55,8 @@ Este projeto demonstra uma **aplicação web** construída com **Streamlit** par
 ## 🚀 Como Executar o Projeto
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/BrunoOMelo/LAB-DIO-AZURE-01.git
+
 cd seu-repositorio
 
 Instale as dependências:
